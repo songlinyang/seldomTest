@@ -1,0 +1,12 @@
+ 2024-07-28 18:32:23 | INFO     | cli.py     | Start to create new test project: mypro
+ 2024-07-28 18:32:23 | INFO     | cli.py     | CWD: C:\auto\workspace\seldomTest\seldomTest
+
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created folder: mypro
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created folder: mypro\test_dir
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created folder: mypro\reports
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created folder: mypro\test_data
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created file: mypro\test_data\data.json
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created file: mypro\test_dir\__init__.py
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created file: mypro\test_dir\test_web_sample.py
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created file: mypro\test_dir\test_api_sample.py
+ 2024-07-28 18:32:23 | INFO     | cli.py     | created file: mypro\confrun.py
